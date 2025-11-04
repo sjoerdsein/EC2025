@@ -1,0 +1,3 @@
+Wynluth,Havural,Kalzion,Phyrralis,Erasxar,Havulth,Drakisis,Varinvynar,Eldenrovan,Quorluth,Lazadir,Zalnixis,Drazloris,Malithgonn,Feroryn,Eltthyris,Dalris,Balardith,Drakindor,Ulkmarn
+
+L11,R19,L15,R7,L15,R7,L14,R17,L5,R5,L5,R19,L5,R5,L5,R8,L5,R16,L5,R19,L13,R16,L18,R10,L5,R7,L13,R17,L9
